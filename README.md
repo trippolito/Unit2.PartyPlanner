@@ -7,4 +7,4 @@
 
 3. **Scheduling a New Party:**
    - A form is available for the user to input details for a new party.
-   - After filling out the form and submitting it, the user sees their party added to the list.
+   - After filling out the form and submitting it, the user sees their party added to the list.git 
